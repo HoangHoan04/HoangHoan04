@@ -6,17 +6,15 @@
 
 - 🔭 I’m currently working on some exciting projects using React and .NET  
 - 🌱 Studying Information Technology at SaiGon University  
-- 👯 Open to collaboration on **Open Source** and **Enterprise Applications**
-- 💬 Ask me about **Web Development**, **API Design**, and **Scalable Systems**
+- 💬 Ask me about **Web Development**, **API Design**.
 - 📫 Reach me at: **hoanghoanpineapple04@gmail.com**
-- ⚡ Fun fact: Coding is better with music! 🎵
 
 ---
 
 ## 🌟 Tech Stack
 
 ### 💻 Languages
- `TypeScript` `JavaScript` `C#`  `PHP` `Angular`
+ `TypeScript` `JavaScript` `C#`  `PHP`
 
 ### 🧠 Backend Frameworks
 `.NET` `Nest`
@@ -28,7 +26,7 @@
 `MySQL` `SQL Server`
 
 ### 🛠️ Tools & Platforms
-`Docker` `Git`
+ `Git`
 
 
 ## 🎯 My Hobbies
@@ -43,7 +41,7 @@
 ## 📫 Connect with Me
 
 - 📷 [Instagram](https://www.instagram.com/h.hoandua14)
-- 🌐 [Facebook](https://www.facebook.com/h.hoandua14))
+- 🌐 [Facebook](https://www.facebook.com/h.hoandua14)
 
 ---
 
