@@ -17,10 +17,10 @@
  `TypeScript` `JavaScript` `C#`  `PHP`
 
 ### 🧠 Backend Frameworks
-`.NET` `Nest`
+`.NET` `Nest` `Node`
 
 ### 🎨 Frontend Frameworks
-`ReactJS` `Angular` `Bootstrap` `Tailwind CSS`
+`ReactJS` `Angular` `Bootstrap` `Tailwind CSS` `Next`
 
 ### 🗃️ Databases
 `MySQL` `SQL Server`
