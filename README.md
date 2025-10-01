@@ -20,10 +20,10 @@
 `.NET` `Nest` `Node`
 
 ### 🎨 Frontend Frameworks
-`ReactJS` `Angular` `Bootstrap` `Tailwind CSS` `Next`
+`ReactJS` `Angular` `Tailwind CSS` `Next`
 
 ### 🗃️ Databases
-`MySQL` `SQL Server`
+`MySQL` 
 
 ### 🛠️ Tools & Platforms
  `Git`
