@@ -23,7 +23,7 @@
 `ReactJS` `Angular` `Tailwind CSS` `Next`
 
 ### 🗃️ Databases
-`MySQL` 
+`MySQL` `PostgreSQL`
 
 ### 🛠️ Tools & Platforms
  `Git`
