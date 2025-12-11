@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on some exciting projects using React and .NET  
+- 🔭 I’m currently working on some exciting projects using React and Nest  
 - 🌱 Studying Information Technology at SaiGon University  
 - 💬 Ask me about **Web Development**, **API Design**.
 - 📫 Reach me at: **hoanghoanpineapple04@gmail.com**
