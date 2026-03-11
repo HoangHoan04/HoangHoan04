@@ -45,6 +45,6 @@
 - 🌐 [Linkedin](https://www.linkedin.com/in/hoanghoan04/)
 - 🌐 [Email](mailto:hoanghoanpineapple04@gmail.com)
 - 
-
+<img src="https://raw.githubusercontent.com/ThinhPhoenix/ThinhPhoenix/output/snake.svg" alt="Snake animation" />
 ---
 
