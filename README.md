@@ -20,13 +20,13 @@
 `.NET` `Nest` `Node`
 
 ### 🎨 Frontend Frameworks
-`ReactJS` `Angular` `Tailwind CSS` `Next`
+`ReactJS` `Angular` `Tailwind CSS` `Next` `VueJS`
 
 ### 🗃️ Databases
 `MySQL` `PostgreSQL`
 
 ### 🛠️ Tools & Platforms
- `Git`
+ `Git` `Github` `Figma`
 
 
 ## 🎯 My Hobbies
@@ -42,6 +42,9 @@
 
 - 📷 [Instagram](https://www.instagram.com/h.hoandua14)
 - 🌐 [Facebook](https://www.facebook.com/h.hoandua14)
+- 🌐 [Linkedin](https://www.linkedin.com/in/hoanghoan04/)
+- 🌐 [Email](mailto:hoanghoanpineapple04@gmail.com)
+- 
 
 ---
 
