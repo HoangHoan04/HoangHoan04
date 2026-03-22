@@ -45,6 +45,5 @@
 - 🌐 [Linkedin](https://www.linkedin.com/in/hoanghoan04/)
 - 🌐 [Email](mailto:hoanghoanpineapple04@gmail.com)
 - 🌐 [Portfolio](https://hoanghoan04.github.io/portfolio)
-- 
 ---
 
