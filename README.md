@@ -44,7 +44,7 @@
 - 🌐 [Facebook](https://www.facebook.com/h.hoandua14)
 - 🌐 [Linkedin](https://www.linkedin.com/in/hoanghoan04/)
 - 🌐 [Email](mailto:hoanghoanpineapple04@gmail.com)
+- 🌐 [Portfolio](https://hoanghoan04.github.io/portfolio)
 - 
-<img src="https://raw.githubusercontent.com/HoangHoan04/HoangHoan04/refs/heads/output/snake.svg" alt="Snake animation" />
 ---
 
